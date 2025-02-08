@@ -40,8 +40,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com].
+If you have any questions or suggestions, feel free to open an issue or contact me at [adityaaraj016@gmail.com].
 
----
-
-Feel free to customize this README with your specific details and make any adjustments needed. If you have any other requests or need further assistance, just let me know!
